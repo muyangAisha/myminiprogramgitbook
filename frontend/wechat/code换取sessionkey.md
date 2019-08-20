@@ -12,7 +12,7 @@
 
 * **URL**
 
-  url?code=xxxxxxxxxxxxxxxxxx
+  /wx/c2s?code=xxxxxxxxxxxxxxxxxx
 
 * **接口使用权限校验**
 
@@ -33,7 +33,7 @@
 #### **请求数据样例**
 
 ```url
-url?code=7d5964c539cb
+/wx/c2s?code=7d5964c539cb
 ```
 
 #### **响应数据样例**
