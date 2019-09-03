@@ -33,18 +33,19 @@
 #### **请求数据样例**
 
 ```url
-/wx/c2s?code=7d5964c539cb
+/wx/c2s?code=011DdH7d1rN2wz0d5a8d1SqU7d1DdH7q
 ```
 
 #### **响应数据样例**
 
 ```json
 {
-  "code": 0,
-  "message": "成功",
-  "data":{
-    "tempSession":"xxxxxxxxxxx"
-  }
+	"code": 0,
+	"data": {
+		"tempSession": "2Y5DROxsh3OmeAgluEpZFQ=="
+	},
+	"message": "请求成功",
+	"timestamp": "20190903110848"
 }
 ```
 
